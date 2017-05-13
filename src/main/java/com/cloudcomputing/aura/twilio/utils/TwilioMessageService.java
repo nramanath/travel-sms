@@ -14,7 +14,7 @@ import com.twilio.sdk.resource.instance.Account;
 import com.twilio.sdk.resource.instance.Message;
 
 /**
- * @author Ramanathan and Suraj
+ * @author Ramanathan
  * Service class that supports operations related Twilio APIs
  *
  */

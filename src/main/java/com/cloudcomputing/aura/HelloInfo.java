@@ -26,7 +26,7 @@ import com.googlecode.objectify.ObjectifyService;
  * Generate some simple information.
  */
 /**
- * @author Ramanathan and Suraj
+ * @author Ramanathan
  * Basic Class of Google App Engine Maven Project - scaffolding 
  */
 public class HelloInfo {

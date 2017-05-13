@@ -6,7 +6,7 @@ import com.google.maps.model.EncodedPolyline;
 import java.lang.reflect.Type;
 
 /**
- * @author Ramanathan and Suraj
+ * @author Ramanathan
  * This class was written in order to define the Instance Creator which was missing for gson to decode the information
  * sent as part of this class by the google maps API
  *

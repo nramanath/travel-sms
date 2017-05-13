@@ -26,7 +26,7 @@ import com.google.maps.model.TravelMode;
 import com.googlecode.objectify.ObjectifyService;
 
 /**
- * @author Ramanathan and Suraj
+ * @author Ramanathan
  * 
  * This Class is a servlet written for the web server. This end point will be configured to the SMS receiver of Twilio server.
  * This ensures the communication from Twilio Server to web server hosted in google app engine. Hence twilio re directs each message 

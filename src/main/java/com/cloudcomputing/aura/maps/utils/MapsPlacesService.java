@@ -16,7 +16,7 @@ import com.google.maps.model.PlacesSearchResponse;
 import com.google.maps.model.PlacesSearchResult;
 
 /**
- * @author Ramanathan and Suraj
+ * @author Ramanathan
  * Service class that supports operations related Google Maps Places API
  * 
  */

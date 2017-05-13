@@ -1,7 +1,7 @@
 package com.cloudcomputing.aura.utils;
 
 /**
- * @author Ramanathan and Suraj
+ * @author Ramanathan
  * This Class defines the constants to be used across the code base to maintain uniformity
  *
  */

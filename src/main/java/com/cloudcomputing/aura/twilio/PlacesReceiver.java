@@ -19,7 +19,7 @@ import com.cloudcomputing.aura.utils.RequestType;
 import com.googlecode.objectify.ObjectifyService;
 
 /**
- * @author Ramanathan and Suraj
+ * @author Ramanathan
  * 
  * This Class is a servlet written for the web server. This end point will be configured to the SMS receiver of Twilio server for ASU Account
  * which was created to provide Google Maps Places as a Service through SMS. This ensures the communication from Twilio Server to web server hosted 

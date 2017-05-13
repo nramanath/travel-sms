@@ -4,7 +4,7 @@ import com.googlecode.objectify.annotation.Entity;
 import com.googlecode.objectify.annotation.Id;
 
 /**
- * @author Ramanathan and Suraj
+ * @author Ramanathan
  * 
  * This class is defined as an entity which will be saved in the 
  * google cloud datastore. This class refers to the request object that will

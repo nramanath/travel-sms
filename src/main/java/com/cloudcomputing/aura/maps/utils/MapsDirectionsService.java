@@ -16,7 +16,7 @@ import com.google.maps.model.DirectionsStep;
 import com.google.maps.model.TravelMode;
 
 /**
- * @author Ramanathan and Suraj
+ * @author Ramanathan
  * Service class that supports operations related Google Maps Directions API
  * 
  */

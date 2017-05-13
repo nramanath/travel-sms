@@ -7,7 +7,7 @@ import com.google.appengine.api.datastore.Entity;
 import com.googlecode.objectify.ObjectifyService;
 
 /**
- * @author Ramanathan and Suraj
+ * @author Ramanathan
  * 
  * This class is a wrapper on top of the Google Cloud's Datastore service
  *

@@ -23,7 +23,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 /**
- * @author Ramanathan and Suraj
+ * @author Ramanathan
  *
  */
 public class HelloAppEngine extends HttpServlet {

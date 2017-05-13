@@ -17,7 +17,7 @@ import com.google.maps.model.PlacesSearchResult;
 import com.google.maps.model.TravelMode;
 
 /**
- * @author Ramanathan and Suraj
+ * @author Ramanathan
  * Service class that supports string operations in the context of this product
  * 
  */

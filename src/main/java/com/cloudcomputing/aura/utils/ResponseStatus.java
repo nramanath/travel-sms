@@ -1,7 +1,7 @@
 package com.cloudcomputing.aura.utils;
 
 /**
- * @author Ramanathan and Suraj
+ * @author Ramanathan
  *
  * Enum Class for the status of the response that are available
  * 

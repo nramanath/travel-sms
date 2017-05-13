@@ -3,7 +3,7 @@ package com.cloudcomputing.aura.utils;
 import com.cloudcomputing.aura.maps.utils.MapsDirectionsService;
 
 /**
- * @author Ramanathan and Suraj
+ * @author Ramanathan
  * This Class defines the error message constants to be used across the code base to maintain uniformity
  *
  */
